@@ -1,24 +1,10 @@
-# product_vue
+# Landing Page
 
-## Project setup
-```
-npm install
-```
+## Website Link!
+https://landing-page-vue.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Technologies used
+VueJS, JS, HTML5, CSS3
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
